@@ -32,6 +32,6 @@ https://github.com/user-attachments/assets/e623415b-56df-44f6-957b-4f324de57525
 Interacting with the GPT-3.5 Model: 
 - Press the Speak Button or Type your text manually in the input field
 - Speak Button will automatically send but for manually inputting, click the "Send" button.
-- The response from the GPT-3.5 model will be displayed on the page.
+- The response from the GPT-3.5 model will be displayed on the page
 
 
